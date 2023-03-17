@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rushik Ramani</h1>
+<img align="center" src="https://user-images.githubusercontent.com/60910364/225988338-4fbe7cba-2841-4898-82c7-4b0fc98b24bc.jpg"/>
+
+
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
   <img align="right" src="https://user-images.githubusercontent.com/60910364/225980283-3ad08429-eca5-4026-81b4-a1f39f2dd829.gif" width=200 />
