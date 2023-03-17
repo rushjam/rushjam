@@ -2,8 +2,8 @@
 
 
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/60910364/225980283-3ad08429-eca5-4026-81b4-a1f39f2dd829.gif" width=200 />
+<a href="https://www.rushikk.com/">
+  <img align="right" src="https://user-images.githubusercontent.com/60910364/225980283-3ad08429-eca5-4026-81b4-a1f39f2dd829.gif" width=140 />
 </a>
 
 
