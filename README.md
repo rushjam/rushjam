@@ -7,7 +7,7 @@
 </a>
 
 
-- 🔭 I’m currently working on [OTT Plateform](https://github.com/rushjam/OTT-Video-Streaming-App.git)
+- 🔭 I’m currently working on [Job Finding Platform](https://github.com/rushjam/jobdhundh-backend.git)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/rushjam)
 
