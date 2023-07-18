@@ -13,11 +13,11 @@
 
 - 💬 Ask me about **node.js, python, react**
 
-- 📫 How to reach me **https://www.rushikk.com/**
+- 📫 How to reach me **https://www.blog.rushikk.com/**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1Dv9KzEQ4vIrYthkQwR2lGWHtQEUsxnjS/view?usp=share_link)
 
-- ⚡ Fun fact **awsome full-stack developer in the making-headed out (excitedly) on the road to mastery ;)**
+- ⚡ Fun fact **Awesome Software Engineer in the making-headed out (excitedly) on the road to mastery ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
