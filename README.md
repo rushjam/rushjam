@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.blog.rushikk.com/**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Dv9KzEQ4vIrYthkQwR2lGWHtQEUsxnjS/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1QVS0mBVgMixziiHc3kBjQJX3rdtz4SMV/view?usp=drive_link)
 
 - ⚡ Fun fact **Awesome Software Engineer in the making-headed out (excitedly) on the road to mastery ;)**
 
